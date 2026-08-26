@@ -7,6 +7,6 @@ I am a first year statistics Ph.D. student and UC Berkeley. I am generally inter
 Previously, I completed my B.A. in Mathematics at Pomona College.
 
 # Recent Updates
-**[August 2026]** Named a UC Berkeley Graduate Community and Diversity Fellow assigned to the Mathematics and Physical Sciences Division.
-**[August 2026]** Began my PhD at UC Berkeley.
+* **[August 2026]** Named a UC Berkeley Graduate Community and Diversity Fellow assigned to the Mathematics and Physical Sciences Division.
+* **[August 2026]** Began my PhD at UC Berkeley.
 
