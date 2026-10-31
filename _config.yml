@@ -10,6 +10,10 @@ nav:
     url: /projects/
   - title: Research
     url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Outreach
+    url: /outreach/
   - title: CV
     url: /cv/
 
