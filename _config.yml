@@ -1,1 +1,19 @@
-theme: jekyll-theme-Academicpages
+title: Matthew Eichner
+description: Ph.D. student in Statistics at UC Berkeley
+email: matthew_eichner@berkeley.edu
+
+# Navigation shown in the header, in order
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: Research
+    url: /research/
+  - title: CV
+    url: /cv/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
