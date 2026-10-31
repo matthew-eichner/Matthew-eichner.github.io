@@ -4,13 +4,18 @@ title: Home
 description: Matthew Eichner, Ph.D. student in Statistics at UC Berkeley
 ---
 <article class="page">
-  <h1>Matthew Eichner</h1>
+  <div class="intro">
+    <img class="headshot" src="{{ '/assets/images/headshot.jpg' | relative_url }}" alt="Headshot of Matthew Eichner" width="180" height="180">
+    <div>
+      <h1>Matthew Eichner</h1>
 
-  <p>
-    I am a first-year Ph.D. student in Statistics at UC Berkeley. I am generally interested in
-    high-dimensional statistics with applications in the physical sciences. Previously, I completed
-    my B.A. in Mathematics at Pomona College.
-  </p>
+      <p>
+        I am a first-year Ph.D. student in Statistics at UC Berkeley. I am generally interested in
+        high-dimensional statistics with applications in the physical sciences. Previously, I completed
+        my B.A. in Mathematics at Pomona College.
+      </p>
+    </div>
+  </div>
 
   <h2>Recent Updates</h2>
   <ul>
